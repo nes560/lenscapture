@@ -74,12 +74,13 @@ LENSCAPTURE/
 
 ## 👥 Tim Pengembang — Kelompok 5
 
-
-Nessa Novianti | 24104410007 
-Muhammad Azkarmin Muhusini | 24104410037 
-Faizal Ramadhan | 24104410033 
-Hoki Kayana Qusyairi | 24104410035 
-Nedy Bagus Lisdiono | 24104410010 
+| Nama | NIM |
+|---|---|
+| Nessa Novianti | 24104410007 |
+| Muhammad Azkarmin Muhusini | 24104410037 |
+| Faizal Ramadhan | 24104410033 |
+| Hoki Kayana Qusyairi | 24104410035 |
+| Nedy Bagus Lisdiono | 24104410010 |
 
 ## 📄 Lisensi
 
