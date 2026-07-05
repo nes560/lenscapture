@@ -62,7 +62,7 @@ LENSCAPTURE/
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/nessanovianti/LENSCAPTURE.git
+   git clone https://github.com/nes560/lenscapture.git
    ```
 2. Buka `index.html` langsung di browser, atau jalankan lewat local server (disarankan pakai ekstensi Live Server di VS Code)
 
@@ -74,13 +74,12 @@ LENSCAPTURE/
 
 ## 👥 Tim Pengembang — Kelompok 5
 
-| Nama | NIM |
-|---|---|
-| Nessa Novianti | 24104410007 |
-| Muhammad Azkarmin Muhusini | 24104410037 |
-| Faizal Ramadhan | 24104410033 |
-| Hoki Kayana Qusyairi | 24104410035 |
-| Nedy Bagus Lisdiono | 24104410010 |
+
+Nessa Novianti | 24104410007 
+Muhammad Azkarmin Muhusini | 24104410037 
+Faizal Ramadhan | 24104410033 
+Hoki Kayana Qusyairi | 24104410035 
+Nedy Bagus Lisdiono | 24104410010 
 
 ## 📄 Lisensi
 
