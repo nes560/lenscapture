@@ -2,7 +2,8 @@
 
 Website penyedia jasa fotografi profesional, penjualan kamera, dan sewa smartphone flagship untuk kebutuhan dokumentasi momen (pre-wedding, wedding, wisuda, dan konten kreator).
 
-🔗 **Repository:** https://github.com/nessanovianti/LENSCAPTURE
+🔗 **Repository:** https://github.com/nes560/lenscapture.git
+
 🔗 **Live Demo (Hosting):** https://lenscapturenow.infinityfreeapp.com
 
 ---
